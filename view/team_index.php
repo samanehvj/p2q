@@ -1,0 +1,1 @@
+<a href="index.php?c=page&action=teamListing">Go to Team Listing</a>
